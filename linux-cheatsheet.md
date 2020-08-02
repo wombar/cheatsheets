@@ -17,6 +17,8 @@
 
 `tar -zcvf archive.tar.gz directory/` - Zip up directory
 
+`uname -a` - Show system and kernel 
+
 
 ### Directory
 
@@ -51,3 +53,6 @@
 ### File Operations
 
 `> text_file.txt` - Empty out a text file
+
+`ln -s /path/to/file linkname` - Create a symlink
+
