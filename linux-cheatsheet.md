@@ -48,3 +48,6 @@
 
 `scp -r local_directory username@remote_host:/some/remote/directory` - Upload a file **TO** remote machine
 
+### File Operations
+
+`> text_file.txt` - Empty out a text file
