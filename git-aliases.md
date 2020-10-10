@@ -9,3 +9,7 @@ Simple set of aliases to help make git life easiuer
 #### Remove a particular user from the history (i.e. CI Build User)
 
 `lg2 = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue) - %an%Creset' --abbrev-commit --grep=\\[BUILD_ROBOT\\] --invert-grep`
+
+#### ZSH Theme
+
+`ZSH_THEME="af-magic"`
