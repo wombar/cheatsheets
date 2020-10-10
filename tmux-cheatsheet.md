@@ -34,3 +34,15 @@
 `z` - Toogle Full Screen Current Pane
 
 `[` (then q to quit scroll mode) - Activate scrolling on history
+
+## Window Management
+
+### Run *Command* -> `ctrl+b -> :` before these commands
+
+`swap-window -t 0` - Swap current window with position 0
+
+`swap-window -s 3 -t 1` - Swap window 3 with window 1
+
+`move-window -t 0` - Move current window to 0 (if 0 does not exist). Useful for creating windows out of sequence if that's what you want
+
+`move-window -r` - Re-index all windows sequentially
