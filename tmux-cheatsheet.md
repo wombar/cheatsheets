@@ -35,6 +35,11 @@
 
 `[` (then q to quit scroll mode) - Activate scrolling on history
 
+`!` - Convert pane into window
+
+`Ctrl + b -> Ctrl + --> / <-- (right/left arrow)` - Move divider left/right   
+
+`Ctrl + b -> Ctrl + (up/down arrow)` - Move divider up/down
 ## Window Management
 
 ### Run *Command* -> `ctrl+b -> :` before these commands
