@@ -16,6 +16,8 @@ This guide is intended to list out common commands that you may need working as 
 
 `git push -u origin branch_name` - Set upstream on push of local branch
 
+`git merge master` - Merge master into current branch
+
 ## Staging
 
 ### Recover from Errors / Mistakes
